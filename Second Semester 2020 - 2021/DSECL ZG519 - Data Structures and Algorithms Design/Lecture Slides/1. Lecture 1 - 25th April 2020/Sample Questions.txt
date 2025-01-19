@@ -1,0 +1,70 @@
+Assumption :{do something} is constant time operation
+
+QN1:
+for (int i = 1; i <=n; i *= c) 
+	{do something}  
+
+QN2:
+for (int i = n; i > 0; i /= c) 
+	{do something}   
+
+QN3:
+for (i=1;i<=n,i++)
+	for (j=1;j< i^2;j++)
+		for (k=1;k<=n/2;k++)
+			{do something}
+
+QN4:
+for (i=1;i<n,i=i*2)
+	{do something}
+
+QN5:
+for (i=1;i<=n,i++)
+	for (j=1;j<=n;j+i)
+		{do something}
+
+QN6:
+for (int i = 2; i <=n; i = pow(i, k))  
+	{do something}
+
+
+QN7:
+{
+for (int i = 1; i <=m; i += c)   
+        {do something}
+  
+for (int i = 1; i <=n; i += c) 
+	{do something}
+
+}
+
+QN8:
+int n=2^2^k 
+for (i=1;i<=n;i++)
+{
+	j=2
+ 	While (j<=n)
+	{
+		j=j^2 ;
+		{do something}
+	}
+} k++;
+
+
+QN9:
+
+for(i=n/2 ;i<n;i++)
+	for (j=1;j<=n/2;j++)
+		for(k=1;k<=n;k=k*2)
+ 			{do something}
+
+
+QN10:
+While n>1
+	{ n=n/2) }
+
+QN11:
+for (int i = n; i > 0; i = sqrt(i))
+	{do something}
+
+
