@@ -1,0 +1,17 @@
+USEFUL LINKS TO UNDERSTAND APRIORI + FP GROWTH + K-MEANS CLUSTERING ALGORITHM
+USING SOME SAMPLES
+
+Apriori algorithm
+http://athena.ecs.csus.edu/~associationcw/Algorithms/Apriori.html
+
+FP Growth algorithm
+http://athena.ecs.csus.edu/~associationcw/Algorithms/FpGrowth.html
+
+K-Means Algorithm
+http://athena.ecs.csus.edu/~mei/datamini/KMeansAlgorithm.php
+
+EM(Expectation Maximization) Algorithm  - beyond the scope of this class
+http://athena.ecs.csus.edu/~mei/datamini/EMAlgorithmDesc.php
+
+Hierarchial Clustering - some simple examples
+http://athena.ecs.csus.edu/~mei/datamini/Hierarchical.php
